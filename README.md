@@ -1,5 +1,5 @@
 # Stat-579-Prasanth
-Creating a repo to colloborate 
+# Creating a repo to colloborate 
 Name: Prasanth Renganathan
  
  Been working on my research this whole summer, some excercising
